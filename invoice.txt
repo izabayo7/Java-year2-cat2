@@ -1,0 +1,7 @@
+   names          : Izabayo Cedric
+   check-in date  : Sun Dec 12 00:00:00 SAST 2021
+   check-out date : Wed Dec 15 00:00:00 SAST 2021
+   car type       : SEDAN
+   Price          : 32862.0
+   car type       : COUPE
+   Price          : 41463.0
